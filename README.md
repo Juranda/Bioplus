@@ -18,7 +18,7 @@ O meu objetivo aqui e apenas utilizar a ideia para treinar as minhas habilidadad
 - Colocar em prática tudo o que eu já aprendi durante a minha jornada dev.
 - Aperfeiçoar minhas habilidades.
 
-# Situação problema:
+## Situação problema:
 
 _**Eu não lembro muito bem como era mas vou tentar explicar com base nas minhas memórias do desenvolvimento do projeto e no video pitch postado no meu canal.**_
 
@@ -28,8 +28,36 @@ Um restaurante tinha problemas com as embalagens de papel e utensílios de plast
 
 O restaurante também disse que gostaria de aderir a embalagens biodegradáveis, porém, não conseguia encontrar fornecedores desse tipo de embalagem.
 
-# Solução - Bioplus
+## Solução - Bioplus
 
 Uma plataforma onde fornecedores de embalagens/utensílios biodegradáveis podem encontrar pessoas interessadas nesse tipo de produto!
 
-# Requisitos
+## Requisitos
+
+- Usuários podem se cadastrar na plataforma utilizando email e senha
+- Usuários pode excluir suas contas
+- Se for um fornecedor:   
+    **Obrigatório**
+    - Precisa de um CNPJ válido.
+    - Nome
+    - Precisa informar quais tipos de utensílios vende, podendo alterar.
+    - Localização
+    - Pelomenos uma forma de contato
+
+    **Opcional**
+    - Foto
+    - Descrição da empresa
+
+    - Poderá cadastrar seus items na sua página: 
+        - Nome 
+        - Preço
+        - Descrição
+        - Foto(s)
+        - Descontos
+- Se for um comprador:
+    **Obrigatório**
+    - Deverá informar qual o tipo de utensílios tem interesse.
+    
+    **Opcional**
+    - Informar qual tipo de estabelecimento possui.
+- Usuários pagam e recebem
